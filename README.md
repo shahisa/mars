@@ -1,7 +1,8 @@
 # @shahisa/mars
 
-[![npm(scoped)](https://img.shields.io/badge/npm-v1.0.0-green.svg)](https://github.com/shahisa/mars)
+[![npm(scoped)](https://img.shields.io/badge/npm-v3.0.0-green.svg)](https://github.com/shahisa/mars)
 [![](https://img.shields.io/github/license/shahisa/mars.svg)](https://github.com/shahisa/mars)
+
 Removes all spaces from string.
 
 ## Install
