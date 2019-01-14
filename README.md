@@ -6,16 +6,22 @@ Removes all spaces from string.
 
 ## Install
 
+```
 $ npm install @shahisa/mars
+```
 
 ## Usage
 
+
+
+```js
 const tiny = require("@shahisa/mars");
 
 mars("So much space!");
 //=> "Somuchspace!"
 
 mars(1337);
-//=> Uncaught TypeError: Tiny wants a string!
-//    at tiny (<anonymous>:2:41)
+//=> Uncaught TypeError: Mars wants a string!
+//    at mars (<anonymous>:2:41)
 //    at <anonymous>:1:1
+```
