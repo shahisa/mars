@@ -15,7 +15,7 @@ $ npm install @shahisa/mars
 
 
 ```js
-const tiny = require("@shahisa/mars");
+const mars = require("@shahisa/mars");
 
 mars("So much space!");
 //=> "Somuchspace!"
